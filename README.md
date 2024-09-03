@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @HarrisSagiris
-- 👀 I’m interested in javaScript,css and html
-- 📫 How to reach me : sagirisharris@gmail.com
+developer: swift, react native, javascript, html/css
+email me at: sagirisharris@gmail.com
 
