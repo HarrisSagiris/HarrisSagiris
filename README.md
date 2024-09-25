@@ -1,3 +1,3 @@
-developer: swift, react native, javascript, html/css
+developer: swift,javascript, html/css
 email me at: sagirisharris@gmail.com
 
