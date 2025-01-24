@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on javascript project(reviewit) !<br>👯 I’m looking to collaborate on projects <br>🌱 I’m currently learning python/computer science<br>💬 Ask me about anything !
+ I’m currently working on a python project, ZeroFN !<br> I’m looking to collaborate on projects <br> I’m currently learning python/cybersecurity<br>💬 Ask me about anything !
 
 
 ## 🌐 Socials:
