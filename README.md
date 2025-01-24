@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
  I’m currently working on a python project, ZeroFN !<br> I’m looking to collaborate on projects <br> I’m currently learning python/cybersecurity<br>Ask me about anything !
 
 
