@@ -1,5 +1,5 @@
 
-<div align="center">
+![<div align="center">
   <img src="https://github.com/devharris.png" width="150" style="border-radius: 50%;">
   <h3>devharris</h3>
   <p>Developer at Devit.to</p>
@@ -23,7 +23,8 @@
       </td>
     </tr>
   </table>
-</div>
+</div>)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yCY4FTMPdK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harris_sgrs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagirisharris@gmail.com) 
 
