@@ -1,5 +1,5 @@
 
-!<div align="center">
+<div align="center">
   <img src="https://github.com/devharris.png" width="150" style="border-radius: 50%;">
   <h3>devharris</h3>
   <p>Developer at Devit.to</p>
