@@ -1,7 +1,6 @@
 
 
 <div align="center">
-  <img src="https://github.com/HarrisSagiris.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #4f46e5; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);">
   
   <h2 style="color: #4f46e5; margin: 20px 0;">devharris</h2>
   <p><i>Developer at Devit.to | Building amazing things</i></p>
