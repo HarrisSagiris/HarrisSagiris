@@ -1,31 +1,6 @@
 
 
-
-<div align="center">
-  <img src="https://github.com/devharris.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #4f46e5; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);">
-  
-  <h2 style="color: #4f46e5; margin: 20px 0;">devharris</h2>
-  <p><i>Developer at Devit.to | Building amazing things</i></p>
-
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-    <div align="center">
-      <img src="https://img.shields.io/badge/Posts-2-6366f1?style=for-the-badge&logo=files&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Upvotes-5-10b981?style=for-the-badge&logo=thumbsup&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Comments-3-3b82f6?style=for-the-badge&logo=comments&logoColor=white"/>
-    </div>
-  </div>
-
-  <div style="background: #1a1c2c; padding: 20px; border-radius: 10px; margin: 20px 0;">
-    <h4>🏆 Achievements</h4>
-    <p>
-      <img src="https://img.shields.io/badge/Status-⭐ Rising Star-fbbf24?style=flat-square&logo=acclaim&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Contributions-5-4f46e5?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Activity-Daily-10b981?style=flat-square&logo=clockify&logoColor=white"/>
-    </p>
-  </div>
-
-  <p><i>Generated with 💜 by <a href="https://devit.to">Devit.to</a></i></p>
-</div>
+<div align="center"> <h2 style="color: #4f46e5; margin: 20px 0;">devharris</h2> <p><i>Developer at Devit.to | Building amazing things</i></p> <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;"> <div align="center"> <img src="https://img.shields.io/badge/Posts-2-6366f1?style=for-the-badge&logo=files&logoColor=white"/> <img src="https://img.shields.io/badge/Upvotes-4-10b981?style=for-the-badge&logo=thumbsup&logoColor=white"/> <img src="https://img.shields.io/badge/Comments-3-3b82f6?style=for-the-badge&logo=comments&logoColor=white"/> </div> </div> <div style="background: #1a1c2c; padding: 20px; border-radius: 10px; margin: 20px 0;"> <h4>🏆 Achievements</h4> <p> <img src="https://img.shields.io/badge/Status-⭐ Rising Star-fbbf24?style=flat-square&logo=acclaim&logoColor=white"/> <img src="https://img.shields.io/badge/Contributions-5-4f46e5?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Activity-Daily-10b981?style=flat-square&logo=clockify&logoColor=white"/> </p> </div> <p><i>Generated with 💜 by <a href="https://devit.to">Devit.to</a></i></p> </div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/yCY4FTMPdK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harris_sgrs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagirisharris@gmail.com) 
