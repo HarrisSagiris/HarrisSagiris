@@ -1,6 +1,8 @@
 
 
+
 <div align="center">
+  <img src="https://github.com/devharris.png" width="200" height="200" style="border-radius: 50%; border: 4px solid #4f46e5; box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);">
   
   <h2 style="color: #4f46e5; margin: 20px 0;">devharris</h2>
   <p><i>Developer at Devit.to | Building amazing things</i></p>
@@ -8,7 +10,7 @@
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
     <div align="center">
       <img src="https://img.shields.io/badge/Posts-2-6366f1?style=for-the-badge&logo=files&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Upvotes-4-10b981?style=for-the-badge&logo=thumbsup&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Upvotes-5-10b981?style=for-the-badge&logo=thumbsup&logoColor=white"/>
       <img src="https://img.shields.io/badge/Comments-3-3b82f6?style=for-the-badge&logo=comments&logoColor=white"/>
     </div>
   </div>
