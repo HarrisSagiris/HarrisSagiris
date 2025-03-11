@@ -1,9 +1,6 @@
 ### <div align="center">Im Harris, a 17 year old student/programmer</div>  
   
 
-- 🔭 I’m currently working on ](https://github.com/rishavanand/github-profilinator)  
-  
-
 - 🌱 I’m currently learning Typescript/react and Kubernetes  
   
 
@@ -103,10 +100,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+## Thanks for checking me out
 
 <br/>  
 
@@ -125,4 +119,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
