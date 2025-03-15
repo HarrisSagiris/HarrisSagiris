@@ -94,7 +94,7 @@
 
 <br/>  
 
-
+<a href="https://app.daily.dev/devharris"><img src="https://api.daily.dev/devcards/v2/z6KWoZiAFIVw6mHOssQdY.png?type=default&r=axx" width="356" alt="Devharris's Dev Card"/></a>
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HarrisSagiris&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
