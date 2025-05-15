@@ -12,31 +12,5 @@
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bloxnode) 
 
-  
-# Harris Sagiris's Profile
-
-<div align="center">
-  <img src="https://trailmind.io/logo.svg" width="100" height="100" alt="Trailmind Logo" />
-</div>
-
-## About Me
-- **Name**: Harris Sagiris
-- **Email**: sagirisharris@gmail.com
-- **Theme Preference**: light
-- **Joined**: 5/11/2025
-
-## Recent Searches
-1. What are the latest developments in AI?
-2. How to improve productivity with ChatGPT?
-3. Best practices for React performance optimization
-4. Understanding large language models
-5. Building responsive interfaces with Tailwind CSS
-
-## Preferences
-- **Notifications**: Enabled
-- **Email Updates**: Not subscribed
-
----
-*Generated with Trailmind - Your AI-powered search companion*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
