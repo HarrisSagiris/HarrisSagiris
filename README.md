@@ -5,7 +5,7 @@
 ## About me : 
 
 Im a 17 year old developer from greece. 
-Im currently representing GREECE to the EUCYS (european contest for young scientists) of 2025 with my project learno
+Im currently representing GREECE to the EUCYS (european contest for young scientists) of 2025 with my project learno.
 You can check it out [here](https://learno.me)
 
 # Tech Stack:
