@@ -8,6 +8,9 @@ Im a 17 year old developer from greece.
 Im currently representing GREECE to the EUCYS (european contest for young scientists) of 2025 with my project learno.
 You can check it out [here](https://learno.me)
 
+-Building Deepsurf. A MULTI-TASK ai agent using langgraph that can handle large and complex tasks.
+Check it out [here](https://deepsurf.im)
+
 # Tech Stack:
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
