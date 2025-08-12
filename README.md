@@ -8,6 +8,9 @@ https://lume.im
 
 Founder of Zerolabs , the company behind lume
 
+harris@lume.im
+hi@lume.im
+
 # Tech Stack:
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
