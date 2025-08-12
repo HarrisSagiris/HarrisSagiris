@@ -4,12 +4,11 @@
 
 ## About:
 Im currently building LUME. An ai agent that can actually execute tasks for you. While other ai's stop at generating ideas, lume delivers ressults.
-https://lume.im
+https://lume.im ||  hi@lume.im
 
 Founder of Zerolabs , the company behind lume
 
 harris@lume.im
-hi@lume.im
 
 # Tech Stack:
 <div style="text-align: center;">
