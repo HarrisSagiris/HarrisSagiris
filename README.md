@@ -8,7 +8,9 @@ https://lume.im ||  hi@lume.im
 
 Founder of Zerolabs , the company behind lume
 
-harris@lume.im
+update : currently building ROVE (www.rove.gr) a share the ride platform for greece 
+
+sagirisharris@gmail.com
 
 # Tech Stack:
 <div style="text-align: center;">
