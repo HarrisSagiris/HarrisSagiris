@@ -16,11 +16,8 @@ sagirisharris@gmail.com
   </a>
 </div>
 
-
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarrisSagiris&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HarrisSagiris&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisSagiris&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# Streak
+![](https://streak-stats.demolab.com?user=HarrisSagiris&theme=default&hide_border=false)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bloxnode) 
