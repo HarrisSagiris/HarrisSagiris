@@ -5,6 +5,8 @@
 ## About:
 Right now i'm building a shared memory infrastructure SDK for parallel AI agents. When multiple agents run simultaneously, they contradict each other, repeat work, and act blind. Mackin gives them a structured reasoning store they can all read and write to mid-task.
 
+https://github.com/Mackin-labs/Mackin
+
 sagirisharris@gmail.com
 
 # Tech Stack:
