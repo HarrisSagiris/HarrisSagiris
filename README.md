@@ -3,9 +3,9 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MdTmWc5v8d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harris_sgrs) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Harris_sgrs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HSkullyman) 
 
 ## About:
-Right now i'm building a shared memory infrastructure SDK for parallel AI agents. When multiple agents run simultaneously, they contradict each other, repeat work, and act blind. Mackin gives them a structured reasoning store they can all read and write to mid-task.
+Building Ledge, an AI CFO that works 24/7 to automate finance operations so founders can focus on building instead of bookkeeping.
 
-https://github.com/Mackin-labs/Mackin
+https://ledge.im
 
 sagirisharris@gmail.com
 
@@ -19,7 +19,5 @@ sagirisharris@gmail.com
 # Streak
 ![](https://streak-stats.demolab.com?user=HarrisSagiris&theme=default&hide_border=false)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/bloxnode) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
