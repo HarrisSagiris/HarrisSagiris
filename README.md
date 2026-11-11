@@ -10,6 +10,7 @@ Kite stress tests autonomous agents with different scenarios, tool failures, une
 Kite breaks your ai agent before users do accidentally.
 
 https://harrissagiris.com
+
 sagirisharris@gmail.com
 
 # Tech Stack:
