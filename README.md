@@ -3,6 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MdTmWc5v8d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harris_sgrs) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Harris_sgrs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Harrisddev) 
 
 ## About:
+Founder @Cognilabs
 Building Kite @Cognilabs
 
 Kite stress tests autonomous agents with different scenarios, tool failures, unexpected states, and other real world failure scenarios, helping developers find and reproduce problems before they reach production.
